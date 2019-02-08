@@ -90,6 +90,8 @@
 	
 Выключил selinux в файле конфигурации /etc/selinux/config.
 
+Перезагрузился с начального диска.
+
 <details> <summary>Вывод lsblk после перезагрузки:</summary>
 	
 	NAME    MAJ:MIN RM SIZE RO TYPE  MOUNTPOINT
